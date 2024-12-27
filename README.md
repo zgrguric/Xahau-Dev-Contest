@@ -1,7 +1,7 @@
-<img width="1780" alt="xahaucontest" src="https://github.com/user-attachments/assets/42dcf26c-ca2f-43b8-96ee-132001dc9651" />
-
 # Build on Xahau: First Edition
 
+
+<img width="1780" alt="xahaucontest" src="https://github.com/user-attachments/assets/42dcf26c-ca2f-43b8-96ee-132001dc9651" />
 
 ## Event Details
 
@@ -24,7 +24,6 @@ Xahau offers XRP Ledger Protocol with efficient, innovative NATIVE account-based
 - **2nd Prize**: $1K USDT + 10K XAH 🥈
 - **3rd Prize**: $500 USDT + 5K XAH 🥉
 
-
 ---
 
 ### **How to Participate**
@@ -36,7 +35,7 @@ Xahau offers XRP Ledger Protocol with efficient, innovative NATIVE account-based
 
 Create a file named .github/PULL_REQUEST_TEMPLATE.md in your repository.
 Copy and paste the content below into that file.
-Or if using the github website you can press create pull request template
+Or if using the GitHub website you can press Create pull request template
 # Build on Xahau Hackathon Submission
 
 Thank you for your submission to the **Build on Xahau** contest! Please ensure that your PR includes all the following components:
@@ -54,7 +53,7 @@ Thank you for your submission to the **Build on Xahau** contest! Please ensure t
 - [ ] **Detailed `README.md` file containing:**
   - **Project Description**
   - **Instructions on How to Use the Project**
-  - **Integration Details for Xahau Hooks**
+  - **Integration Details for Xahau Hooks - if used**
 
 ## How to Use the Project 🚀
 
@@ -62,7 +61,7 @@ Provide step-by-step instructions on how to set up and use your project. Include
 
 ## Integration with Xahau Hooks 🔗
 
-Explain how your project integrates with Xahau Hooks. Provide details that demonstrate the integration and any specific features utilized.
+Explain how your project leverages Xahau or integrates Hooks. Provide details that demonstrate the integration and any specific features utilized.
 
 ## Mandatory Tweets 🐦
 
@@ -105,8 +104,7 @@ Thank you for your participation and good luck!
 ### **Community Support**
 - If you need inspiration or help during the contest, don't hesitate to reach out to us on social media. Tweet at [@XahauNetwork](https://twitter.com/XahauNetwork) for guidance or support!
 - Join the **Xahau Contributors Discord**: [discord.gg/ds7nb93mYj](https://discord.gg/ds7nb93mYj)
-
-
+  
 ---
 #### **Explorers**
 - **Xahau Network**
@@ -133,7 +131,7 @@ Thank you for your participation and good luck!
 ### **Judging Panel**
 - **Denis Angell** (XRPL-Labs)
 - **+1 Representative** (InFTF)
-- **+1 Representative** (XRPL-Labs)
+- **Robert Kiuru** (XRPL-Labs)
 
 *Additional judges TBD.*
 
@@ -143,18 +141,18 @@ Thank you for your participation and good luck!
 The jury will assess submissions based on the following criteria:
 - **Novelty**
 The originality and innovativeness of the idea, including significant optimizations or unique applications that leverage Xahau’s distinctive features.
-- **Effective Use of New Hooks Features (25%)**
+- **Effective Use of Hooks or Xahau Features**
 Demonstrated proficiency and creativity in utilizing the new Hooks functionalities to enhance the project's capabilities.
-- **Quality of Code**
-The overall excellence of the codebase, emphasizing readability, maintainability, efficiency, and adherence to industry best practices.
 - **Business Application**
 The solution's potential to address real-world challenges and provide tangible business value, including its relevance and applicability in practical scenarios.
+- **Quality of Code**
+The overall excellence of the codebase, emphasizing readability, maintainability, efficiency, and adherence to industry best practices.
 
 ### **Evaluation Criteria**
 The jury will evaluate:
 - Novel ideas or significantly optimized projects leveraging Xahau’s unique features.
 - Effective use of new Hooks features.
-- Solutions addressing challenges in areas like:
+- Solutions addressing challenges in areas like (for example):
   - Energy generation and trading
   - Asset bridging
   - User protection
