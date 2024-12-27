@@ -1,4 +1,7 @@
+<img width="1780" alt="xahaucontest" src="https://github.com/user-attachments/assets/42dcf26c-ca2f-43b8-96ee-132001dc9651" />
+
 # Build on Xahau: First Edition
+
 
 ## Event Details
 
