@@ -55,11 +55,11 @@ Thank you for your submission to the **Build on Xahau** contest! Please ensure t
 
 ## How to Use the Project 🚀
 
-<!-- Provide step-by-step instructions on how to set up and use your project. Include any prerequisites and system requirements. -->
+Provide step-by-step instructions on how to set up and use your project. Include any prerequisites and system requirements.
 
 ## Integration with Xahau Hooks 🔗
 
-<!-- Explain how your project integrates with Xahau Hooks. Provide details that demonstrate the integration and any specific features utilized. -->
+Explain how your project integrates with Xahau Hooks. Provide details that demonstrate the integration and any specific features utilized.
 
 ## Mandatory Tweets 🐦
 
@@ -79,7 +79,7 @@ Thank you for your submission to the **Build on Xahau** contest! Please ensure t
 
 ## Additional Information 📄
 
-<!-- Any additional information, notes, or comments you want to include with your submission. -->
+Any additional information, notes, or comments you want to include with your submission.
 
 ---
 
@@ -96,9 +96,15 @@ Thank you for your participation and good luck!
 - [Xahau Documentation](https://docs.xahau.network/)
 - [Hooks Documentation & Builder](https://docs.xahau.network/technical/hooks )
 - [Hooks Toolkit](https://hooks-toolkit.com/)
-- [JS Hooks Tutorial](https://www.youtube.com/watch?v=uX7bR2VZAp8) 
+- [JS Hooks Tutorial](https://www.youtube.com/watch?v=uX7bR2VZAp8)
+---
+
+### **Community Support**
+- If you need inspiration or help during the contest, don't hesitate to reach out to us on social media. Tweet at [@XahauNetwork](https://twitter.com/XahauNetwork) for guidance or support!
+- Join the **Xahau Contributors Discord**: [discord.gg/ds7nb93mYj](https://discord.gg/ds7nb93mYj)
 
 
+---
 #### **Explorers**
 - **Xahau Network**
   - Mainnet: [explorer.xahau.network](https://explorer.xahau.network/)
@@ -114,12 +120,6 @@ Thank you for your participation and good luck!
 
 - **XAHScan**
   - Mainnet: [xahscan.com](https://xahscan.com/)
-
-#### **Community Support**
-- If you need inspiration or help during the contest, don't hesitate to reach out to us on social media. Tweet at [@XahauNetwork](https://twitter.com/XahauNetwork) for guidance or support!
-- Join the **Xahau Contributors Discord**: [discord.gg/ds7nb93mYj](https://discord.gg/ds7nb93mYj)
-
-
 ---
 
 ### **Winners Announcement**
