@@ -65,6 +65,7 @@ Explain how your project leverages Xahau or integrates Hooks. Provide details th
 
 ## Mandatory Tweets 🐦
 
+Submissions will be shared and amplified by the @XahauNetwork account, giving your work additional visibility within the community.
 - [ ] **First Mandatory Tweet** announcing your participation:
 
   - **Link to Tweet:** [Insert the link to your announcement tweet here]
@@ -185,7 +186,7 @@ By participating in this contest, you agree to the following:
 - **Liability**: Organizers are not responsible for any damages or losses during participation.
 
 These terms ensure fairness and transparency. Contact us with any questions or concerns.
-—--
+—-
 
 
 
