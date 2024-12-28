@@ -97,8 +97,8 @@ Thank you for your participation and good luck!
 #### **Official Documentation**
 - [Xahau Documentation](https://docs.xahau.network/)
 - [Hooks Documentation & Builder](https://docs.xahau.network/technical/hooks )
-- [Hooks Toolkit](https://hooks-toolkit.com/)
-- [How to Build a Hook from Scratch](https://www.youtube.com/watch?v=XgQx49K81do)
+- [Hooks Toolkit: A comprehensive library for building and testing Hooks.](https://hooks-toolkit.com/)
+- [How to Build a Hook from Scratch: step-by-step video guide to implementing Hooks in your project](https://www.youtube.com/watch?v=XgQx49K81do)
 - [JS Hooks Tutorial](https://www.youtube.com/watch?v=uX7bR2VZAp8)
 
 ---
@@ -177,26 +177,14 @@ Projects showcasing exceptional implementation or real-world applicability, even
 - Email: [contests@xahau.network](mailto:contests@xahau.network)
 
 **Disclaimer**
-By participating in this contest, all participants agree to the terms and conditions set forth by the organizers. Below are the key points:
-- Right to Disqualify:
-The organizers reserve the right to disqualify or remove any participant from the contest if they are found violating the rules, engaging in inappropriate behavior, practicing unfair actions, or performing any act that compromises the integrity of the contest.
-- Intellectual Property:
-All projects developed during the contest remain the sole property of their respective creators. However, the organizers may request permission to use these projects for promotional, educational, or advertising purposes, always giving proper credit to the author.
-- Final Decisions:
-All decisions made by the jury and organizers are final and not subject to appeal. Any disputes will be resolved at the sole discretion of the organizers.
-- Event Cancellation or Modification:
-The organizers reserve the right to cancel, modify, or reschedule the contest in the event of force majeure or circumstances beyond their control. Participants will be notified promptly.
-- Confidentiality and Personal Data:
-Personal data collected from participants will be used solely for purposes related to the contest and in compliance with applicable data protection laws.
-- Eligibility Requirements:
-Participants must meet the eligibility criteria established by the organizers. Providing false information will result in immediate disqualification.
-- Limited Liability:
-The organizers are not responsible for any losses, damages, or injuries incurred during the contest, including but not limited to technical issues, connection failures, or other unforeseen incidents.
-- Adherence to Rules:
-Participants must follow all contest rules and maintain ethical and professional behavior at all times. The organizers reserve the right to define acceptable conduct.
-- Acceptance of Terms:
-By registering for the contest, participants agree to these terms and conditions, as well as any adjustments made by the organizers.
-This disclaimer is intended to ensure fairness, transparency, and goodwill throughout the contest. If you have any questions or concerns, please contact the organizers.
+By participating in this contest, you agree to the following:
+- **Eligibility**: Participants must meet the eligibility criteria and adhere to the rules.
+- **Ownership**: Projects remain the property of their creators, but the organizers may request permission to showcase them with credit.
+- **Fairness**: The organizers reserve the right to disqualify submissions that violate rules or compromise the contest's integrity.
+- **Finality of Judging**: All jury decisions are final and not subject to appeal.
+- **Liability**: Organizers are not responsible for any damages or losses during participation.
+
+These terms ensure fairness and transparency. Contact us with any questions or concerns.
 —--
 
 
