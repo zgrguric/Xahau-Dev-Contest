@@ -134,7 +134,7 @@ Thank you for your participation and good luck!
 ### **Judging Panel**
 - **Richard Holland** (XRPL-Labs)
 - **Denis Angell** (XRPL-Labs)
-- **+1 Representative** (InFTF)
+- **José Antonio Lázaro** (InFTF)
 - **Robert Kiuru** (XRPL-Labs)
 
 *Additional judges TBD.*
