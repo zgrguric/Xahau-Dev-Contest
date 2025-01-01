@@ -97,7 +97,8 @@ Thank you for your participation and good luck!
 
 #### **Official Documentation**
 - [Xahau Documentation](https://docs.xahau.network/)
-- [Hooks Documentation & Builder](https://docs.xahau.network/technical/hooks )
+- [Hooks Documentation](https://docs.xahau.network/readme-1)
+- [Hooks Builder](https://builder.xahau.network/)
 - [Hooks Toolkit: A comprehensive library for building and testing Hooks.](https://hooks-toolkit.com/)
 - [How to Build a Hook from Scratch: step-by-step video guide to implementing Hooks in your project](https://www.youtube.com/watch?v=XgQx49K81do)
 - [JS Hooks Tutorial](https://www.youtube.com/watch?v=uX7bR2VZAp8)
