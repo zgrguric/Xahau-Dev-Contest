@@ -38,12 +38,12 @@ This contest invites you to innovate, build, and showcase your creativity using 
 
 ### **Evaluation Criteria**
 The jury will assess submissions based on the following criteria:
-- **Novelty**
-The originality and innovativeness of the idea, including significant optimizations or unique applications that leverage Xahau’s distinctive features.
+- **Innovation**
+Originality and creativity of the idea, including significant optimizations or unique applications that effectively leverage Xahau’s features.
 - **Effective Use of Hooks or Xahau Features**
-Demonstrated proficiency and creativity in utilizing the new Hooks functionalities to enhance the project's capabilities.
+While not mandatory, projects that creatively incorporate Hooks to showcase Xahau’s programmable capabilities will be viewed favorably.
 - **Business Application**
-The solution's potential to address real-world challenges and provide tangible business value, including its relevance and applicability in practical scenarios.
+The project’s potential to address practical challenges, create meaningful value, and demonstrate scalability in real business scenarios.
 
 Projects showcasing exceptional implementation or real-world applicability, even if inspired by existing concepts, are strongly encouraged.
 
