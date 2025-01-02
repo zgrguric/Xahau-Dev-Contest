@@ -50,7 +50,7 @@ Projects showcasing exceptional implementation or real-world applicability, even
 ---
 
 ### **Submission Requirements**
-1. Submit a functional project via a Pull Request.
+1. Submit a functional project or proof-of-concept via a Pull Request.
 2. Include basic documentation (e.g., `README.md`).
 3. Publish or send a link to your project via email: [contests@xahau.network](mailto:contests@xahau.network).
 4. Post or link to a detailed X thread/tweet explaining your project's journey.
