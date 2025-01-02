@@ -4,7 +4,6 @@
 <img width="1780" alt="xahaucontest" src="https://github.com/user-attachments/assets/42dcf26c-ca2f-43b8-96ee-132001dc9651" />
 
 ## Event Details
----
 
 ### **Introduction**
 
@@ -33,7 +32,7 @@ This contest invites you to innovate, build, and showcase your creativity using 
 1. **How to Get Started & Submit Your Work**:
    - Develop a project that leverages the Xahau blockchain. The theme is open, and the extent of Xahau's integration into your project is up to you.
    - The project does not have to be an entirely novel idea but should demonstrate significant optimization, innovation, or better leveraging of Xahau’s capabilities.
- - Projects should include at least one element related to Hooks to showcase Xahau’s unique programmable features. While the focus is on proof-of-concept (POC) rather than a full product, submissions should be functional and demonstrate the project's potential.
+ - Projects incorporating Hooks to leverage Xahau's unique programmable features are highly encouraged, though not mandatory. While the focus is on proof-of-concept (POC) rather than a full product, submissions should be functional and demonstrate the project's potential.
 
 Create a file named .github/PULL_REQUEST_TEMPLATE.md in your repository.
 Copy and paste the content below into that file.
