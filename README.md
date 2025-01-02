@@ -4,18 +4,15 @@
 <img width="1780" alt="xahaucontest" src="https://github.com/user-attachments/assets/42dcf26c-ca2f-43b8-96ee-132001dc9651" />
 
 ## Event Details
-
-### **Dates**
-- **Start Date**: January 13, 2024 12:00CET
-- **End Date**: January 31, 2024 23:59CET
-
 ---
 
 ### **Introduction**
 
 Xahau is a fast, affordable, and reliable layer 1 blockchain ready to receive your ideas and projects. Take this opportunity to make a project with Xahau, learn, enjoy a new community, and win fantastic prizes.
 
-Xahau offers XRP Ledger Protocol with efficient, innovative NATIVE account-based smart contracts known as Hooks. This enables developers to create and deploy efficient, complex, and custom logic quickly and efficiently.
+Xahau offers XRP Ledger Protocol with efficient, innovative NATIVE account-based smart contracts known as Hooks. This enables developers to create and deploy efficient, complex, and custom logic quickly and efficiently
+
+This contest invites you to innovate, build, and showcase your creativity using Xahau's cutting-edge blockchain technology.
 
 ---
 
@@ -25,7 +22,12 @@ Xahau offers XRP Ledger Protocol with efficient, innovative NATIVE account-based
 - **3rd Prize**: $500 USDT + 5K XAH 🥉
 
 ---
+### **Dates**
 
+- **Start Date**: January 13, 2024 12:00CET
+- **End Date**: January 31, 2024 23:59CET
+  
+---
 ### **How to Participate**
 
 1. **How to Get Started & Submit Your Work**:
