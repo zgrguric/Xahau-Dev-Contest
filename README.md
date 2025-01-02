@@ -149,18 +149,6 @@ The originality and innovativeness of the idea, including significant optimizati
 Demonstrated proficiency and creativity in utilizing the new Hooks functionalities to enhance the project's capabilities.
 - **Business Application**
 The solution's potential to address real-world challenges and provide tangible business value, including its relevance and applicability in practical scenarios.
-- **Quality of Code**
-The overall excellence of the codebase, emphasizing readability, maintainability, efficiency, and adherence to industry best practices.
-
-### **Evaluation Criteria**
-The jury will evaluate:
-- Novel ideas or significantly optimized projects leveraging Xahau’s unique features.
-- Effective use of new Hooks features.
-- Solutions addressing challenges in areas like (for example):
-  - Energy generation and trading
-  - Asset bridging
-  - User protection
-  - Financial inclusion
 
 Projects showcasing exceptional implementation or real-world applicability, even if inspired by existing concepts, are strongly encouraged.
 
