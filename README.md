@@ -21,7 +21,7 @@ This contest invites you to innovate, build, and showcase your creativity using 
 - **3rd Prize**: $500 USDT + 5K XAH 🥉
 
 ---
-### **Dates**
+### **Event Dates**
 
 - **Start Date**: January 13, 2024 12:00CET
 - **End Date**: January 31, 2024 23:59CET
