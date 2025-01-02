@@ -29,10 +29,10 @@ This contest invites you to innovate, build, and showcase your creativity using 
 - **Date**: January 31, 2024
 ---
 ### **Judging Panel**
-- **Richard Holland** (XRPL-Labs)
-- **José Antonio Lázaro** (InFTF)
-- **Denis Angell** (XRPL-Labs)
-- **Robert Kiuru** (XRPL-Labs)
+- **Richard Holland** | @[RichardXRPL](https://x.com/RichardXRPL) (XRPL-Labs)
+- **José Antonio Lázaro** | @[lazaroespila](https://x.com/lazaroespila) (InFTF)
+- **Denis Angell** | @[angell_denis](https://x.com/angell_denis) (XRPL-Labs)
+- **Robert Kiuru** | @[robertkiuru](https://x.com/robertkiuru) (XRPL-Labs)
 
 ---
 
