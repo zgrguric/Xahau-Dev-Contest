@@ -25,8 +25,37 @@ This contest invites you to innovate, build, and showcase your creativity using 
 
 - **Start Date**: January 13, 2024 12:00CET
 - **End Date**: January 31, 2024 23:59CET
-  
+### **Winners Announcement**
+- **Date**: January 31, 2024
 ---
+### **Judging Panel**
+- **Richard Holland** (XRPL-Labs)
+- **José Antonio Lázaro** (InFTF)
+- **Denis Angell** (XRPL-Labs)
+- **Robert Kiuru** (XRPL-Labs)
+
+---
+
+### **Evaluation Criteria**
+The jury will assess submissions based on the following criteria:
+- **Novelty**
+The originality and innovativeness of the idea, including significant optimizations or unique applications that leverage Xahau’s distinctive features.
+- **Effective Use of Hooks or Xahau Features**
+Demonstrated proficiency and creativity in utilizing the new Hooks functionalities to enhance the project's capabilities.
+- **Business Application**
+The solution's potential to address real-world challenges and provide tangible business value, including its relevance and applicability in practical scenarios.
+
+Projects showcasing exceptional implementation or real-world applicability, even if inspired by existing concepts, are strongly encouraged.
+
+---
+
+### **Submission Requirements**
+1. Submit a functional project via a Pull Request.
+2. Include basic documentation (e.g., `README.md`).
+3. Publish or send a link to your project via email: [contests@xahau.network](mailto:contests@xahau.network).
+4. Post or link to a detailed X thread/tweet explaining your project's journey.
+5. Post a **mandatory tweet** announcing participation and another when submitting for final review.
+
 ### **How to Participate**
 
 1. **How to Get Started & Submit Your Work**:
@@ -91,7 +120,6 @@ Any additional information, notes, or comments you want to include with your sub
 
 Thank you for your participation and good luck!
 
-
 ---
 
 ### **Resources**
@@ -127,40 +155,6 @@ Thank you for your participation and good luck!
 - **XAHScan**
   - Mainnet: [xahscan.com](https://xahscan.com/)
 ---
-
-### **Winners Announcement**
-- **Date**: January 31, 2024
-
----
-
-### **Judging Panel**
-- **Richard Holland** (XRPL-Labs)
-- **José Antonio Lázaro** (InFTF)
-- **Denis Angell** (XRPL-Labs)
-- **Robert Kiuru** (XRPL-Labs)
-
----
-
-### **Evaluation Criteria**
-The jury will assess submissions based on the following criteria:
-- **Novelty**
-The originality and innovativeness of the idea, including significant optimizations or unique applications that leverage Xahau’s distinctive features.
-- **Effective Use of Hooks or Xahau Features**
-Demonstrated proficiency and creativity in utilizing the new Hooks functionalities to enhance the project's capabilities.
-- **Business Application**
-The solution's potential to address real-world challenges and provide tangible business value, including its relevance and applicability in practical scenarios.
-
-Projects showcasing exceptional implementation or real-world applicability, even if inspired by existing concepts, are strongly encouraged.
-
----
-
-### **Submission Requirements**
-1. Submit a functional project via a Pull Request.
-2. Include basic documentation (e.g., `README.md`).
-3. Publish or send a link to your project via email: [contests@xahau.network](mailto:contests@xahau.network).
-4. Post or link to a detailed X thread/tweet explaining your project's journey.
-5. Post a **mandatory tweet** announcing participation and another when submitting for final review.
-
 —
 ### **Official Contact**
 - Email: [contests@xahau.network](mailto:contests@xahau.network)
@@ -174,7 +168,3 @@ By participating in this contest, you agree to the following:
 - **Liability**: Organizers are not responsible for any damages or losses during participation.
 
 These terms ensure fairness and transparency. Contact us with any questions or concerns.
-—-
-
-
-
