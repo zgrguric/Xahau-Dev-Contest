@@ -30,7 +30,7 @@ This contest invites you to innovate, build, and showcase your creativity using 
 ---
 ### **Judging Panel**
 - **Richard Holland** | @[RichardXRPL](https://x.com/RichardXRPL) (XRPL-Labs)
-- **José Antonio Lázaro** | @[lazaroespila](https://x.com/lazaroespila) (InFTF)
+- **José Antonio Lázaro** | @[ekiserrepe](https://x.com/ekiserrepe) (InFTF)
 - **Denis Angell** | @[angell_denis](https://x.com/angell_denis) (XRPL-Labs)
 - **Robert Kiuru** | @[robertkiuru](https://x.com/robertkiuru) (XRPL-Labs)
 
