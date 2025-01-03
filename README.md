@@ -155,7 +155,6 @@ Thank you for your participation and good luck!
 - **XAHScan**
   - Mainnet: [xahscan.com](https://xahscan.com/)
 ---
-—
 ### **Official Contact**
 - Email: [contests@xahau.network](mailto:contests@xahau.network)
 ---
