@@ -158,7 +158,7 @@ Thank you for your participation and good luck!
 —
 ### **Official Contact**
 - Email: [contests@xahau.network](mailto:contests@xahau.network)
-
+---
 **Disclaimer**
 By participating in this contest, you agree to the following:
 - **Eligibility**: Participants must meet the eligibility criteria and adhere to the rules.
@@ -168,3 +168,9 @@ By participating in this contest, you agree to the following:
 - **Liability**: Organizers are not responsible for any damages or losses during participation.
 
 These terms ensure fairness and transparency. Contact us with any questions or concerns.
+---
+### FAQ
+- Projects must be deployed on Mainnet?
+   - Yes. The projects must be running on Mainnet. If, due to some problem, the project could not be deployed on Mainnet, it can be submitted on Testnets, knowing that this could have a negative effect on the jury.
+- Can a participant or team submit more than one project?
+   - Yes. 
