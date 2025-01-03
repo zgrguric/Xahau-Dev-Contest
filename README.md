@@ -169,7 +169,7 @@ By participating in this contest, you agree to the following:
 
 These terms ensure fairness and transparency. Contact us with any questions or concerns.
 ---
-### FAQ
+### **FAQ**
 - Projects must be deployed on Mainnet?
    - Yes. The projects must be running on Mainnet. If, due to some problem, the project could not be deployed on Mainnet, it can be submitted on Testnets, knowing that this could have a negative effect on the jury.
 - Can a participant or team submit more than one project?
