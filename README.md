@@ -56,66 +56,13 @@ Projects showcasing exceptional implementation or real-world applicability, even
 1. Submit a tweet announcing your participation when you start the project.
      **Example Tweet:**
   > We are participating in the Build on Xahau contest! Learn about our project here: [Your Project Link/Socials]
-2. When your project is ready, submit a functional project or proof-of-concept and its documentation (e.g., `README.md`) via a Pull Request to [**submissions**](https://github.com/Ekiserrepe/contest-test/tree/submissions) branch of this repo.
-2. Send a message regarding your project submission via email: [contests@xahau.network](mailto:contests@xahau.network).
-3. Post or link to a detailed X thread/tweet explaining your project's journey.
+2. When your project is ready, submit a Pull Request to [**submissions**](https://github.com/Ekiserrepe/contest-test/tree/submissions) branch of this repo including your functional project or proof-of-concept and its documentation (e.g., `README.md`) inside /submissions folder in your own folder. Fill the template provided when you submit your Pull Request (also available on .github/PULL_REQUEST_TEMPLATE.md of this repo).
+3. Send a message regarding your project submission via email: [contests@xahau.network](mailto:contests@xahau.network).
+4. Post or link to a detailed X thread/tweet explaining your project's journey.
    > We have submitted [Project Name] to the Build on Xahau contest, (and explain your project/journey in a thread)
+5. That's all! Any questions, please contact contests@xahau.network
 
-
-Create a file named .github/PULL_REQUEST_TEMPLATE.md in your repository.
-Copy and paste the content below into that file.
-Or if using the GitHub website you can press Create pull request template
-# Build on Xahau Hackathon Submission
-
-Thank you for your submission to the **Build on Xahau** contest! Please ensure that your PR includes all the following components:
-
----
-
-## Project Overview 📖
-
-- **Project Name:** <!-- Your project's name -->
-- **Project Description:** <!-- A brief description of your project -->
-
-## Project Details 🛠
-
-- [ ] **Included Project Files (code, documentation, etc.)**
-- [ ] **Detailed `README.md` file containing:**
-  - **Project Description**
-  - **Instructions on How to Use the Project**
-  - **Integration Details for Xahau Hooks - if used**
-
-## How to Use the Project 🚀
-
-Provide step-by-step instructions on how to set up and use your project. Include any prerequisites and system requirements.
-
-## Integration with Xahau Hooks 🔗
-
-Explain how your project leverages Xahau or integrates Hooks. Provide details that demonstrate the integration and any specific features utilized.
-
-## Mandatory Tweets 🐦
-
-Submissions will be shared and amplified by the @XahauNetwork account, giving your work additional visibility within the community.
-- [ ] **First Mandatory Tweet** announcing your participation:
-
-  - **Link to Tweet:** [Insert the link to your announcement tweet here]
-
-  **Example Tweet:**
-  > We are participating in the Build on Xahau contest! Learn about our project here: [Project Link]
-
-- [ ] **Second Mandatory Tweet** upon submission for final review:
-
-  - **Link to Tweet:** [Insert the link to your submission tweet here]
-
-  **Example Tweet:**
-  > We have submitted [Project Name] to the Build on Xahau contest, see our submission here: [PR Link]
-
-## Additional Information 📄
-
-Any additional information, notes, or comments you want to include with your submission.
-
----
-
-**Please make sure all the items above are completed before submitting your PR. Incomplete submissions may not be reviewed.**
+**Please make sure all the items (your files, docs,both tweets, an email) above are completed. Incomplete submissions may not be reviewed.**
 
 Thank you for your participation and good luck!
 
@@ -165,10 +112,8 @@ By participating in this contest, you agree to the following:
 - **Finality of Judging**: All jury decisions are final and not subject to appeal.
 - **Liability**: Organizers are not responsible for any damages or losses during participation.
 
-These terms ensure fairness and transparency. Contact us with any questions or concerns.
+These terms ensure fairness and transparency. Contact us with any questions or concerns, [contests@xahau.network](mailto:contests@xahau.network).
 
 ## **FAQ**
 - Projects must be deployed on Mainnet?
    - Yes. The projects must be running on Mainnet. If, due to some problem, the project could not be deployed on Mainnet, it can be submitted on Testnets, knowing that this could have a negative effect on the jury.
-- Can a participant or team submit more than one project?
-   - Yes. 
