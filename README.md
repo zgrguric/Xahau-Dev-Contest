@@ -112,7 +112,7 @@ By participating in this contest, you agree to the following:
 - **Finality of Judging**: All jury decisions are final and not subject to appeal.
 - **Liability**: Organizers are not responsible for any damages or losses during participation.
 
-  By participating in this competition, you acknowledge that sanctions and certain jurisdictional restrictions may apply. Eligibility to receive rewards may require compliance with applicable laws, including the completion of KYC (Know Your Customer) verification. If you have any concerns or doubts regarding eligibility or requirements, please reach out to us through the provided communication channels before submitting your entry.
+  By participating in this competition, you acknowledge that sanctions and certain jurisdictional restrictions may apply. Eligibility to receive rewards may require compliance with applicable laws, including the completion of KYC (Know Your Customer) verification. All taxes, fees, or other financial obligations related to rewards are the sole responsibility of the participants. If you have any concerns or doubts regarding eligibility, requirements, or tax obligations, please reach out to us through the provided communication channels before submitting your entry.
 
 These terms ensure fairness and transparency. Contact us with any questions or concerns, [contests@xahau.network](mailto:contests@xahau.network).
 
