@@ -5,7 +5,7 @@
 
 ## Event Details
 
-### **Introduction**
+## **Introduction**
 
 Xahau is a fast, affordable, and reliable layer 1 blockchain ready to receive your ideas and projects. Take this opportunity to make a project with Xahau, learn, enjoy a new community, and win fantastic prizes.
 
@@ -13,30 +13,34 @@ Xahau offers XRP Ledger Protocol with efficient, innovative NATIVE account-based
 
 This contest invites you to innovate, build, and showcase your creativity using Xahau's cutting-edge blockchain technology.
 
----
+## **Participate Today!**
 
-### **Prizes**
+- Develop a project that leverages the Xahau blockchain. The theme is open, and the extent of Xahau's integration into your project is up to you.
+- The project does not have to be an entirely novel idea but should demonstrate significant optimization, innovation, or better leveraging of Xahau’s capabilities.
+- Projects incorporating Hooks to leverage Xahau's unique programmable features are highly encouraged, though not mandatory. While the focus is on proof-of-concept (POC) rather than a full product, submissions should be functional and demonstrate the project's potential.
+
+
+## **Prizes**
 - **1st Prize**: $2.5K USDT + 20K XAH 🥇
 - **2nd Prize**: $1K USDT + 10K XAH 🥈
 - **3rd Prize**: $500 USDT + 5K XAH 🥉
 
----
-### **Event Dates**
+
+## **Event Dates**
 
 - **Start Date**: January 13, 2024 12:00CET
 - **End Date**: January 31, 2024 23:59CET
-### **Winners Announcement**
+- 
+## **Winners Announcement**
 - **Date**: February 7, 2024
----
-### **Judging Panel**
+
+## **Judging Panel**
 - **Richard Holland** | @[RichardXRPL](https://x.com/RichardXRPL) (XRPL-Labs)
 - **José Antonio Lázaro** | @[ekiserrepe](https://x.com/ekiserrepe) (InFTF)
 - **Denis Angell** | @[angell_denis](https://x.com/angell_denis) (XRPL-Labs)
 - **Robert Kiuru** | @[robertkiuru](https://x.com/robertkiuru) (XRPL-Labs)
 
----
-
-### **Evaluation Criteria**
+## **Evaluation Criteria**
 The jury will assess submissions based on the following criteria:
 - **Innovation**
 Originality and creativity of the idea, including significant optimizations or unique applications that effectively leverage Xahau’s features.
@@ -47,21 +51,16 @@ The project’s potential to address practical challenges, create meaningful val
 
 Projects showcasing exceptional implementation or real-world applicability, even if inspired by existing concepts, are strongly encouraged.
 
----
 
-### **Submission Requirements**
-1. Submit a functional project or proof-of-concept via a Pull Request.
-2. Include basic documentation (e.g., `README.md`).
-3. Publish or send a link to your project via email: [contests@xahau.network](mailto:contests@xahau.network).
-4. Post or link to a detailed X thread/tweet explaining your project's journey.
-5. Post a **mandatory tweet** announcing participation and another when submitting for final review.
+## **Submission Steps**
+1. Submit a tweet announcing your participation when you start the project.
+     **Example Tweet:**
+  > We are participating in the Build on Xahau contest! Learn about our project here: [Your Project Link/Socials]
+2. When your project is ready, submit a functional project or proof-of-concept and its documentation (e.g., `README.md`) via a Pull Request to [**submissions**](https://github.com/Ekiserrepe/contest-test/tree/submissions) branch of this repo.
+2. Send a message regarding your project submission via email: [contests@xahau.network](mailto:contests@xahau.network).
+3. Post or link to a detailed X thread/tweet explaining your project's journey.
+   > We have submitted [Project Name] to the Build on Xahau contest, (and explain your project/journey in a thread)
 
-### **How to Participate**
-
-1. **How to Get Started & Submit Your Work**:
-   - Develop a project that leverages the Xahau blockchain. The theme is open, and the extent of Xahau's integration into your project is up to you.
-   - The project does not have to be an entirely novel idea but should demonstrate significant optimization, innovation, or better leveraging of Xahau’s capabilities.
- - Projects incorporating Hooks to leverage Xahau's unique programmable features are highly encouraged, though not mandatory. While the focus is on proof-of-concept (POC) rather than a full product, submissions should be functional and demonstrate the project's potential.
 
 Create a file named .github/PULL_REQUEST_TEMPLATE.md in your repository.
 Copy and paste the content below into that file.
@@ -122,9 +121,9 @@ Thank you for your participation and good luck!
 
 ---
 
-### **Resources**
+## **Resources**
 
-#### **Official Documentation**
+## **Official Documentation/Tools**
 - [Xahau Documentation](https://docs.xahau.network/)
 - [Hooks Documentation](https://docs.xahau.network/readme-1)
 - [Hooks Builder](https://builder.xahau.network/)
@@ -132,14 +131,14 @@ Thank you for your participation and good luck!
 - [How to Build a Hook from Scratch: step-by-step video guide to implementing Hooks in your project](https://www.youtube.com/watch?v=XgQx49K81do)
 - [JS Hooks Tutorial](https://www.youtube.com/watch?v=uX7bR2VZAp8)
 
----
 
-### **Community Support**
+
+## **Community Support**
 - If you need inspiration or help during the contest, don't hesitate to reach out to us on social media. Tweet at [@XahauNetwork](https://twitter.com/XahauNetwork) for guidance or support!
 - Join the **Xahau Contributors Discord**: [discord.gg/ds7nb93mYj](https://discord.gg/ds7nb93mYj)
   
----
-#### **Explorers**
+
+### **Explorers**
 - **Xahau Network**
   - Mainnet: [explorer.xahau.network](https://explorer.xahau.network/)
   - Testnet: [explorer.xahau-test.net](https://explorer.xahau-test.net/)
@@ -154,11 +153,11 @@ Thank you for your participation and good luck!
 
 - **XAHScan**
   - Mainnet: [xahscan.com](https://xahscan.com/)
----
-### **Official Contact**
+
+## **Official Contact**
 - Email: [contests@xahau.network](mailto:contests@xahau.network)
----
-**Disclaimer**
+
+## **Disclaimer**
 By participating in this contest, you agree to the following:
 - **Eligibility**: Participants must meet the eligibility criteria and adhere to the rules.
 - **Ownership**: Projects remain the property of their creators, but the organizers may request permission to showcase them with credit.
@@ -167,8 +166,8 @@ By participating in this contest, you agree to the following:
 - **Liability**: Organizers are not responsible for any damages or losses during participation.
 
 These terms ensure fairness and transparency. Contact us with any questions or concerns.
----
-### **FAQ**
+
+## **FAQ**
 - Projects must be deployed on Mainnet?
    - Yes. The projects must be running on Mainnet. If, due to some problem, the project could not be deployed on Mainnet, it can be submitted on Testnets, knowing that this could have a negative effect on the jury.
 - Can a participant or team submit more than one project?
