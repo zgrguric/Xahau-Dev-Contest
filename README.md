@@ -105,14 +105,8 @@ Thank you for your participation and good luck!
 - Email: [contests@xahau.network](mailto:contests@xahau.network)
 
 ## **Disclaimer**
-By participating in this contest, you agree to the following:
-- **Eligibility**: Participants must meet the eligibility criteria and adhere to the rules.
-- **Ownership**: Projects remain the property of their creators, but the organizers may request permission to showcase them with credit.
-- **Fairness**: The organizers reserve the right to disqualify submissions that violate rules or compromise the contest's integrity.
-- **Finality of Judging**: All jury decisions are final and not subject to appeal.
-- **Liability**: Organizers are not responsible for any damages or losses during participation.
 
-  By participating in this competition, you acknowledge that sanctions and certain jurisdictional restrictions may apply. Eligibility to receive rewards may require compliance with applicable laws, including the completion of KYC (Know Your Customer) verification. All taxes, fees, or other financial obligations related to rewards are the sole responsibility of the participants. If you have any concerns or doubts regarding eligibility, requirements, or tax obligations, please reach out to us through the provided communication channels before submitting your entry.
+By participating, you agree to the following: Participants must meet eligibility criteria and adhere to all rules. Projects remain the property of their creators, but organizers reserve the right to showcase, share, or feature submissions with appropriate credit. The organizers retain the right to disqualify submissions that violate rules or compromise the contest's integrity. All jury decisions are final and not subject to appeal. Organizers are not liable for damages or losses during participation. The organizers also reserve the right to modify the contest requirements at any time if necessary. You acknowledge that sanctions and certain jurisdictional restrictions may apply. Eligibility to receive rewards may require compliance with applicable laws, including the completion of KYC (Know Your Customer) verification. All taxes, fees, or other financial obligations related to rewards are the sole responsibility of the participants. If you have any concerns or doubts regarding eligibility, requirements, or tax obligations, please reach out to us through the provided communication channels before submitting your entry.
 
 These terms ensure fairness and transparency. Contact us with any questions or concerns, [contests@xahau.network](mailto:contests@xahau.network).
 
