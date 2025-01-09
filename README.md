@@ -115,4 +115,7 @@ These terms ensure fairness and transparency. Contact us with any questions or c
    - Yes. The projects must be running on Mainnet. If, due to some problem, the project could not be deployed on Mainnet, it can be submitted on Testnets, knowing that this could have a negative effect on the jury.
 - Can I submit a project that has already been published?
    - No, the project must be new or an improvement of an existing project that can be considered interesting enough to be part of the competition and that has not been published before the start date of the contest.
-
+- When will the prizes be received?
+   - Once the winners are announced, they will be contacted to send the prize as soon as possible.
+- What I need to receive the prize?
+   - For XAH, you will need XAH address, for USD part, you can indicate your preferred network and address. Although named USDT, the award can be received in USDC or RLUSD.
