@@ -82,7 +82,7 @@ Thank you for your participation and good luck!
 
 ## **Community Support**
 - If you need inspiration or help during the contest, don't hesitate to reach out to us on social media. Tweet at [@XahauNetwork](https://twitter.com/XahauNetwork) for guidance or support!
-- Join the **Xahau Contributors Discord**: [discord.gg/ds7nb93mYj](https://discord.gg/ds7nb93mYj)
+- Join the **Xahau Contributors Discord**, we created the #dev-contest channel for your questions: [discord.gg/ds7nb93mYj](https://discord.gg/ds7nb93mYj)
   
 
 ### **Explorers**
