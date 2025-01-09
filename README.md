@@ -118,4 +118,4 @@ These terms ensure fairness and transparency. Contact us with any questions or c
 - When will the prizes be received?
    - Once the winners are announced, they will be contacted to send the prize as soon as possible.
 - What I need to receive the prize?
-   - For XAH, you will need XAH address, for USD part, you can indicate your preferred network and address. Although named USDT, the award can be received in USDC or RLUSD.
+   - For XAH, you will need a XAH address, for USD part, you can indicate your preferred network and address. Although named in USDT, the award can be received in USDC or RLUSD.
