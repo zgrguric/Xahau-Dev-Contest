@@ -107,7 +107,7 @@ Thank you for your participation and good luck!
 
 ## **FAQ**
 - Projects must be deployed on Mainnet?
-   - Yes. The projects must be running on Mainnet. If, due to some problem, the project could not be deployed on Mainnet, it can be submitted on Testnets, knowing that this could have a negative effect on the jury.
+   - Yes. The projects must be running on Mainnet. If, due to some problem, the project could not be deployed on Mainnet, it can be submitted on Testnets.
 - Can I submit a project that has already been published?
    - No, the project must be new or an improvement of an existing project that can be considered interesting enough to be part of the competition and that has not been published before the start date of the contest.
 - When will the prizes be received?
