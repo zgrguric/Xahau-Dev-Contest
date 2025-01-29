@@ -84,4 +84,8 @@ Currently in *Beta (public testing)*
 **Knowledgebase** Explorable documentation (connected to official docs)  
 **Search** Project file search plugin
 
+## Demo
+
+[See it in action (post on X)](https://x.com/XRPLWin/status/1884394295748149284)
+
 
