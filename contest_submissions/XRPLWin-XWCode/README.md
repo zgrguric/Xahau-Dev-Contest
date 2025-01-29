@@ -27,15 +27,14 @@ File manager tree is available to view and browse all files available.
 To build hook from TS project, project needs to be bundled with *esbuild*, to make this tool available NodeJS VM is used.  
 Virtual Machine uses *Node v18* to build JS Hooks. Engine that is running this is [Webcontainers](https://webcontainers.io/) by [StackBlitz](https://stackblitz.com/)
 
-This 
-
 ### Plugins
 Event driven architecture of the IDE allows easy extensions to be installed to ide (plugin manager is planned for future releases).
 
 ### Git integration
 Project can be loaded from github repository or GIST directly. For future release it is planned to init git repo in IDE and add git functionality (pull, push...)
 
-### 
+### Vault
+To encrypt sensitive data such as TESTNET account seeds and ENV variables, Encryption Vault is used which will encrypt variables with unique generated encryption key.
 
 ## Networks
 IDE supports multi-networks connections, you can switch between XAHAU Mainnet, XAHAU Testnet and XAHAU JSHooks Testnet, also there is localhost connection for own local node build.
