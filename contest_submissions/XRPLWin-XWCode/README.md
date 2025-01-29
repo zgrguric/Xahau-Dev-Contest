@@ -28,6 +28,9 @@ edition of this IDE is combination of specific plugins which gives Hooks build a
 
 ## Building
 
+Powerful tools gives you control over your code, use context menu to build hook bundle or get binary source easily.
+![image](https://github.com/user-attachments/assets/ac794603-d14f-4039-b489-daca13cd73c1)
+
 ## Deploying
 
 ## Project status
