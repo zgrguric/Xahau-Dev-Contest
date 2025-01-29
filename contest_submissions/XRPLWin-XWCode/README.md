@@ -1,5 +1,5 @@
 # XWCode - JSHooks Builder
-Native IDE for Web3 Development
+Native IDE for Web3 Development ([try it now](https://xahau.xrplwin.com/code/jshooks))
 
 ![xw1](https://github.com/user-attachments/assets/d5398cc4-5bbc-4125-a214-146165fd2bf7)
 
@@ -25,21 +25,30 @@ Files are stored in your web browser and persisted in IndexedDB storage. Option 
 File manager tree is available to view and browse all files available.
 
 ### Virtual machine
-To build hook from TS project, project needs to be bundled with *esbuild*, to make this tool available NodeJS VM is used.
+To build hook from TS project, project needs to be bundled with *esbuild*, to make this tool available NodeJS VM is used.  
+Virtual Machine uses *Node v18* to build JS Hooks. Engine that is running this is [Webcontainers](https://webcontainers.io/) by [StackBlitz](https://stackblitz.com/)
 
-Virtual Machine uses Node v18 to build JS Hooks. Engine that is running this is [StackBlitz's Webcontainers](https://webcontainers.io/)
+### Plugins
+Event driven architecture of the IDE allows easy extensions to be installed to ide (plugin manager is planned for future releases).
 
 ## Networks
+IDE supports multi-networks connections, you can switch between XAHAU Mainnet, XAHAU Testnet and XAHAU JSHooks Testnet, also there is localhost connection for own local node build.
+- XAHAU Mainnet
+- XAHAU Testnet
+- XAHAU JSHooks Testnet
+- LOCAL
 
 ## Building
 
 Powerful context-menu tools gives you control over your code, use context menu to build hook bundle or get binary source easily.
+
 ![image](https://github.com/user-attachments/assets/dee899bd-dec0-47a7-a525-2b169833c995)
 
 
 ## Deploying
-
-Deploy UI gives you control over SetHook transaction, review and set available parameters before deploying on your account.  
+Deploy UI gives you control over SetHook transaction, review and set available parameters before deploying on your account. 
+- Deploy JSHooks
+- Deploy CHooks
 
 ![image](https://github.com/user-attachments/assets/9b40f22f-2a43-4a27-bc3f-6594a33f41af)
 
@@ -49,13 +58,22 @@ Easily modify installed hook (change triggers, clear namespace, add or remove pa
 
 Also uninstall hook with few clicks.
 
+- modify hooks
+- clear namespace
+- change namespace
+- remove or add parameters
+- remove or add grants
+- deinstall hook
+
 ![image](https://github.com/user-attachments/assets/97acb6d7-5599-4dc2-89c5-2fa30d7e8ed2)
 
 
 ## Project status
-Currently in Beta
+Currently in *Beta* (public testing)
 
 ## What is missing
-Test interface.
+**Test interface** Built-in Wallet manager, faucet and easy-to-use forms to run transaction types.  
+**Code snippets** Library of code snippets to make hook building easy task  
+**Knowledgebase** Explorable documentation (connected to official docs)  
 
 
