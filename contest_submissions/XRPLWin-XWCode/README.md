@@ -67,7 +67,7 @@ Also uninstall hook with few clicks.
 - change namespace
 - remove or add parameters
 - remove or add grants
-- deinstall hook
+- uninstall hook
 
 ![image](https://github.com/user-attachments/assets/97acb6d7-5599-4dc2-89c5-2fa30d7e8ed2)
 
@@ -79,10 +79,10 @@ Alternative installation tools for both C and JS Hooks are also available under 
 Currently in *Beta (public testing)*
 
 ## What is missing
-**Test interface** Built-in Wallet manager, faucet and easy-to-use forms to run transaction types.  
-**Code snippets** Library of code snippets to make hook building easy task  
-**Knowledgebase** Explorable documentation (connected to official docs)  
-**Search** Project file search plugin
+**Test interface** - Built-in Wallet manager, faucet and easy-to-use forms to run transaction types.  
+**Code snippets** - Library of code snippets to make hook building easy task  
+**Knowledgebase** - Explorable documentation (connected to official docs)  
+**Search** - Project file search plugin
 
 ## Demo
 
