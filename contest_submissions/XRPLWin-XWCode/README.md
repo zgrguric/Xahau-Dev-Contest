@@ -3,7 +3,6 @@ Native IDE for Web3 Development ([try it now](https://xahau.xrplwin.com/code/jsh
 
 ![xw1](https://github.com/user-attachments/assets/d5398cc4-5bbc-4125-a214-146165fd2bf7)
 
-
 ## Overview
 The XWCode Core and Components are made from zero by XRPLWin in event-driven architecture. IDE components are extendable by plugins. "JSHooks Builder"
 edition of this IDE is combination of specific plugins which gives Hooks build and deploy capabilities to the underlying core XWCode engine.
@@ -24,12 +23,19 @@ edition of this IDE is combination of specific plugins which gives Hooks build a
 Files are stored in your web browser and persisted in IndexedDB storage. Option to download full project is available (as .zip archive).
 File manager tree is available to view and browse all files available.
 
-### Virtual machine
+### Node Virtual Machine
 To build hook from TS project, project needs to be bundled with *esbuild*, to make this tool available NodeJS VM is used.  
 Virtual Machine uses *Node v18* to build JS Hooks. Engine that is running this is [Webcontainers](https://webcontainers.io/) by [StackBlitz](https://stackblitz.com/)
 
+This 
+
 ### Plugins
 Event driven architecture of the IDE allows easy extensions to be installed to ide (plugin manager is planned for future releases).
+
+### Git integration
+Project can be loaded from github repository or GIST directly. For future release it is planned to init git repo in IDE and add git functionality (pull, push...)
+
+### 
 
 ## Networks
 IDE supports multi-networks connections, you can switch between XAHAU Mainnet, XAHAU Testnet and XAHAU JSHooks Testnet, also there is localhost connection for own local node build.
@@ -39,11 +45,9 @@ IDE supports multi-networks connections, you can switch between XAHAU Mainnet, X
 - LOCAL
 
 ## Building
-
 Powerful context-menu tools gives you control over your code, use context menu to build hook bundle or get binary source easily.
 
 ![image](https://github.com/user-attachments/assets/dee899bd-dec0-47a7-a525-2b169833c995)
-
 
 ## Deploying
 Deploy UI gives you control over SetHook transaction, review and set available parameters before deploying on your account. 
@@ -67,13 +71,17 @@ Also uninstall hook with few clicks.
 
 ![image](https://github.com/user-attachments/assets/97acb6d7-5599-4dc2-89c5-2fa30d7e8ed2)
 
+Alternative installation tools for both C and JS Hooks are also available under "Tools" in the [Xahau Explorer](https://xahau.xrplwin.com/tools)
+
+![image](https://github.com/user-attachments/assets/1cdc20e5-86d8-4578-b500-531e571f90e9)
 
 ## Project status
-Currently in *Beta* (public testing)
+Currently in *Beta (public testing)*
 
 ## What is missing
 **Test interface** Built-in Wallet manager, faucet and easy-to-use forms to run transaction types.  
 **Code snippets** Library of code snippets to make hook building easy task  
 **Knowledgebase** Explorable documentation (connected to official docs)  
+**Search** Project file search plugin
 
 
