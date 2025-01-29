@@ -1,6 +1,9 @@
 # XWCode - JSHooks Builder
 Native IDE for Web3 Development
 
+![xw1](https://github.com/user-attachments/assets/d5398cc4-5bbc-4125-a214-146165fd2bf7)
+
+
 ## Overview
 The XWCode Core and Components are made from zero by XRPLWin in event-driven architecture. IDE components are extendable by plugins. "JSHooks Builder"
 edition of this IDE is combination of specific plugins which gives Hooks build and deploy capabilities to the underlying core XWCode engine.
